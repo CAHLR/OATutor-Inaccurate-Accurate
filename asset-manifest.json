@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Inaccurate-Accurate/static/css/main.420752e4.css",
-    "main.js": "/OATutor-Inaccurate-Accurate/static/js/main.75b0fac3.js",
+    "main.js": "/OATutor-Inaccurate-Accurate/static/js/main.c2ff2b65.js",
     "static/media/Symbola.svg": "/OATutor-Inaccurate-Accurate/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Inaccurate-Accurate/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Inaccurate-Accurate/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Inaccurate-Accurate/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Inaccurate-Accurate/index.html",
     "main.420752e4.css.map": "/OATutor-Inaccurate-Accurate/static/css/main.420752e4.css.map",
-    "main.75b0fac3.js.map": "/OATutor-Inaccurate-Accurate/static/js/main.75b0fac3.js.map"
+    "main.c2ff2b65.js.map": "/OATutor-Inaccurate-Accurate/static/js/main.c2ff2b65.js.map"
   },
   "entrypoints": [
     "static/css/main.420752e4.css",
-    "static/js/main.75b0fac3.js"
+    "static/js/main.c2ff2b65.js"
   ]
 }
